@@ -19,7 +19,7 @@ namespace ejmplo
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("welcome");
+            MessageBox.Show("Bienvenido, espero que te haya gustado");
         }
     }
 }
